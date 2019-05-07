@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loosoobee.proper-code.com/sitemap.xml
